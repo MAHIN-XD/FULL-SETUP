@@ -9,7 +9,7 @@ git clone https://github.com/MAHIN-XD/FULL-SETUP
 
 ls 
 
-cd  TERMUX-SETUP 
+cd  FULL-SETUP
 
 ls
 
